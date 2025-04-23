@@ -51,6 +51,6 @@ Built with **Next.js App Router** and **Tailwind CSS**, this site highlights res
 **Sanggeon Jung**  
 - 💼 Junior Computer Science Student at UC San Diego  
 - 📧 saj032@ucsd.edu / jsk010914@gmail.com  
-- 🔗 [GitHub](https://github.com/TopgeonKR) | [LinkedIn](https://www.linkedin.com/in/sanggeon-jung)
+- 🔗 [GitHub](https://github.com/TopgeonKR) | [LinkedIn](https://www.linkedin.com/in/topgeon/)
 
 ---
