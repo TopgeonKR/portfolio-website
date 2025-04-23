@@ -28,7 +28,7 @@ export default function Hero() {
                 {/* sub text */}
                 <div className="text-left max-w-xl text-mid text-gray-600 space-y-2">
                     <p>
-                        I'm a junior majoring in <span className="text-cyan-500">Computer Science </span> 
+                        I&apos;m a junior majoring in <span className="text-cyan-500">Computer Science </span> 
                         at <span className="text-purple-500">UC San Diego</span>. 
                     </p>
                     <p>
