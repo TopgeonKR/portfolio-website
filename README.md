@@ -28,7 +28,7 @@ Built with **Next.js App Router** and **Tailwind CSS**, this site highlights res
 
 ## 🔍 Preview
 
-> 📸 Screenshot preview (add one here!)  
+- 📸 Screenshot preview
 ![Preview1](./img/Main.png)
 ![Preview2](./img/Projects.png)
 ![Preview3](./img/Contacts.png)
