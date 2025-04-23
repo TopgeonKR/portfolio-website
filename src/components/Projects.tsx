@@ -6,7 +6,7 @@ export default function Projects() {
         id="projects"
         className="max-w-6xl mx-auto px-6 py-60 grid md:grid-cols-2 gap-16 items-center mb-100 ">
       
-      {/* 왼쪽: 제목 + 설명 + 그림 */}
+      
       <div className="space-y-6">
         <div>
           <h2 className="text-5xl font-extrabold mb-2">
@@ -20,7 +20,7 @@ export default function Projects() {
         </p>
         <div className="mt-6 justify-center">
           <Image
-            src="/backlog.png" // 👉 프로젝트 대표 이미지
+            src="/backlog.png"
             alt="Frontend Project Illustration"
             width={350}
             height={280}
@@ -28,22 +28,22 @@ export default function Projects() {
         </div>
       </div>
 
-      {/* 오른쪽: 프로젝트 카드 리스트 */}
+      {/* Card list */}
       <div className="space-y-8">
-        {/* 카드 1 */}
+        {/* Card 1 */}
         <div className="flex items-start gap-4">
         <div className="bg-black text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-semibold">
             01
         </div>
         <div>
-            <h3 className="font-semibold text-lg mb-1">Walksonwood Website Mocking</h3>
+            <h3 className="font-semibold text-lg mb-1">Personal Portfolio Website</h3>
             <p className="text-gray-600 text-sm">
-            A personal website built with Next.js and Tailwind CSS, inspired by Walksonwood. Includes responsive layout, animations, and component design to showcase my frontend skills.
+            A personal website built with Next.js and Tailwind CSS. Includes responsive layout, animations, and component design to showcase my frontend skills.
             </p>
         </div>
         </div>
 
-        {/* 카드 2 */}
+        {/* Card 2 */}
         <div className="flex items-start gap-4">
         <div className="bg-black text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-semibold">
             02
@@ -56,7 +56,7 @@ export default function Projects() {
         </div>
         </div>
 
-        {/* 카드 3 */}
+        {/* Card 3 */}
         <div className="flex items-start gap-4">
         <div className="bg-black text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-semibold">
             03
@@ -69,7 +69,7 @@ export default function Projects() {
         </div>
         </div>
 
-        {/* 카드 4 */}
+        {/* Card 4 */}
         <div className="flex items-start gap-4">
         <div className="bg-black text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-semibold">
             04
@@ -84,7 +84,7 @@ export default function Projects() {
         
         <div className="mt-8">
         <a
-            href="https://github.com/TopgeonKR" // ← 여기 본인 GitHub 주소로 변경
+            href="https://github.com/TopgeonKR"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-6 py-3 bg-black text-white font-medium rounded-md hover:bg-gray-800 transition"

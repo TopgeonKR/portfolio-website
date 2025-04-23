@@ -12,7 +12,7 @@ export default function Hero() {
                 {/* Main text */}
                 <div className="flex flex-col gap-4 max-w-4xl w-full">
                     <h1 className="self-start text-5xl sm:text-6xl font-extrabold">
-                    HI, WALKSON<span className="text-purple-500">W</span>OOD.
+                    HI, THE<span className="text-purple-500">R</span>E.
                     </h1>
                     <h1 className="self-center text-5xl sm:text-6xl font-extrabold">
                     MY NAME IS
