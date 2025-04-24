@@ -4,8 +4,8 @@ This is my personal portfolio website, designed and developed to showcase my pro
 
 Built with **Next.js App Router** and **Tailwind CSS**, this site highlights responsive design, clean component structure, and modern UI patterns.
 
-- 🔗 Website Link
-![Link](https://portfolio-website-iota-three-26.vercel.app/)
+- 🔗 Website 
+[Link](https://portfolio-website-iota-three-26.vercel.app/)
 ---
 
 ## ✨ Features
@@ -30,8 +30,8 @@ Built with **Next.js App Router** and **Tailwind CSS**, this site highlights res
 
 ## 🔍 Preview
 
-- 🔗 Website Link
-![Link](https://portfolio-website-iota-three-26.vercel.app/)
+- 🔗 Website 
+[Link](https://portfolio-website-iota-three-26.vercel.app/)
 
 - 📸 Screenshot preview
 ![Preview1](./img/Main.png)
