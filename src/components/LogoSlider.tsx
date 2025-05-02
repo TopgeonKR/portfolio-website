@@ -17,12 +17,13 @@ export default function LogoSlider() {
           <div className="flex gap-10 whitespace-nowrap animate-marquee">
             {[...Array(2)].map((_, i) => (
               <React.Fragment key={i}>
-                <Image src="/Walksonwood.png" alt="logo" width={200} height={200} />
-                <Image src="/Walksonwood.png" alt="logo" width={200} height={200} />
-                <Image src="/Walksonwood.png" alt="logo" width={200} height={200} />
-                <Image src="/Walksonwood.png" alt="logo" width={200} height={200} />
-                <Image src="/Walksonwood.png" alt="logo" width={200} height={200} />
-                <Image src="/Walksonwood.png" alt="logo" width={200} height={200} />
+                <Image src="/HelloSky.png" alt="logo" width={200} height={200} />
+                <Image src="/HelloSky.png" alt="logo" width={200} height={200} />
+                <Image src="/HelloSky.png" alt="logo" width={200} height={200} />
+                <Image src="/HelloSky.png" alt="logo" width={200} height={200} />
+                <Image src="/HelloSky.png" alt="logo" width={200} height={200} />
+                <Image src="/HelloSky.png" alt="logo" width={200} height={200} />
+                <Image src="/HelloSky.png" alt="logo" width={200} height={200} />
               </React.Fragment>
             ))}
           </div>
